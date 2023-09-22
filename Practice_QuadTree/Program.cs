@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows;
 
-namespace TrafficControlTest
+namespace QuadTree
 {
 	static class Program
 	{
